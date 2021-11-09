@@ -1,5 +1,4 @@
-# TreeHouse_Challenges
-Challenges built during my courses learning the fundamentals of Python
+Various Coding Challenges
 
 FizzBuzz:
 *   This take on the FizzBuzz Challenge prompts the user to enter their name, and then to enter numbers. 
