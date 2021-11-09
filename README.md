@@ -6,6 +6,7 @@ FizzBuzz:
 *   Easter Eggs: Yes
 
 Monty Python Ticket Sales Console:
+
 This Challenge was completed as part of a TreeHouse Python course.
 
 ===> Monty Python is holding a special showing, and knowing Python was named after them: they have decided to use a Python App for their ticket sales which can only be purchased in a random shop.  <==
